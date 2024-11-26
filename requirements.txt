@@ -1,0 +1,14 @@
+librosa
+pyaudio
+sounddevice
+soundfile
+pydub
+wave
+crepe
+scipy
+tensorflow
+numpy
+psola
+mathplotlib
+# There are two libraries that have been repurposed to use as functions from files sine_wave.py and auto_tune.py
+# import tone from sine_wave / tune_file from auto_tune
